@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102d35"/>
+      <stop offset="1" stop-color="#07151d"/>
+    </linearGradient>
+    <linearGradient id="jade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a7f0c1"/>
+      <stop offset="1" stop-color="#3aa77a"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <circle cx="64" cy="64" r="43" fill="none" stroke="#d8bf72" stroke-width="5"/>
+  <path d="M64 21c-24 0-43 19-43 43s19 43 43 43c-12-9-18-20-18-32 0-11 7-19 18-19 10 0 18-8 18-18 0-8-6-15-18-17z" fill="url(#jade)"/>
+  <path d="M64 107c24 0 43-19 43-43S88 21 64 21c12 8 18 19 18 31 0 11-7 20-18 20-10 0-18 8-18 18 0 8 6 14 18 17z" fill="#e8794a"/>
+  <circle cx="64" cy="39" r="6" fill="#e8794a"/>
+  <circle cx="64" cy="89" r="6" fill="#79d6a7"/>
+  <path d="M27 89c14 0 23-5 30-14M101 39C88 39 78 44 71 54" fill="none" stroke="#f5de92" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+</svg>
+
